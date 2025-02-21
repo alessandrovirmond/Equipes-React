@@ -1,5 +1,3 @@
-
-
 const Colaborador = () => {
     return (
     <div>
@@ -11,6 +9,7 @@ const Colaborador = () => {
             <h5>Desenvolvedor</h5>
         </div>
     </div>
-        
+     
+     
     )
 }
